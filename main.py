@@ -1,6 +1,4 @@
 import random
-from tkinter import *
-from tkinter import ttk
 
 def input_num(text):
     """Возвращает целое число. Цикл работает до тех пор, пока не введут целое число"""
